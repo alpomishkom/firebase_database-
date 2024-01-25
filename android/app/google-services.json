@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168998815789",
+    "project_id": "contact-d2958",
+    "storage_bucket": "contact-d2958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168998815789:android:18730abc9639a425fb50a4",
+        "android_client_info": {
+          "package_name": "com.example.contakt_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHOzf27SfkIfd9w8okMvwnI4-LpMrK2uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
